@@ -1,0 +1,39 @@
+p{
+    
+}
+.Inspirational{
+    background-color: rgb(220, 220, 137);
+    text-align: justify;
+    border: 5px solid red;
+    margin: 5px;
+    padding: 15px;
+}
+.Motivation{
+    background-color: beige;
+    text-align: justify;
+    border: 5px groove palegreen;
+    margin: 5px;
+    padding: 15px;
+}
+.pre{
+    background-color: hotpink;
+    text-align: justify;
+    border: 5px double rgb(114, 10, 234);
+    margin: 5px;
+    padding: 15px;
+}
+.a{
+    color: blue;
+}
+.b{
+    color:brown ;
+}
+.c{
+    color: #0beef6;
+}
+#code{
+    color: hwb(0 96% 2%);
+}
+span{
+    color: tomato ;
+}
